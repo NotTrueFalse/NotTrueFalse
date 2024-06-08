@@ -9,7 +9,7 @@
 \mmlToken{
 <img src=x onload=alert(document.cookie) />
         <script>
-            <mi></mi>
+<math>a <msup>x 2</msup> + b x + c</math>
         </script>
     }[fontfamily="imnothere;11111111111111111111111111111\"'><a></a>"]{demo}
 ```
