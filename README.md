@@ -7,9 +7,7 @@
 \documentclass{scrartcl}
 \usepackage{kpfonts}
 \newcommand*{\vv}[1]{\vec{\mkern0mu}}
-\begin{document}
 \[
     \vec u,\ \vv u,\ \vv{OA},\ \vv{BC},\ \overrightarrow{AB}
 \]
-\end{document}
 ```
