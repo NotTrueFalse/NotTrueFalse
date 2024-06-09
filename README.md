@@ -5,6 +5,6 @@
 - ⚡ Fun fact: Always online but not for the good reason
 ```math
 \[
-    \vec u,\ \vv u,\ \vv{OA},\ \vv{BC},\ \overrightarrow{AB}[font-family:Arial]
+    \vec u,\ \vv u,\ \vv{OA},\ \vv{BC},\ \overrightarrow[font-family:Arial]{AB}
 \]
 ```
